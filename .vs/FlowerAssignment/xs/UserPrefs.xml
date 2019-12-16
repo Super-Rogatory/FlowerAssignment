@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3BCA6F91-E820-4436-8A29-3302E1335F0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlowerAssignment/FlowerUI.cs">
+    <Files>
+      <File FileName="FlowerAssignment/MainFlowerFile.cs" Line="3" Column="27" />
+      <File FileName="FlowerAssignment/FlowerUI.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlowerAssignment" expanded="True">
+            <Node name="FlowerAssignment" expanded="True">
+              <Node name="MainFlowerFile.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.FlowerAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/home/superrogatory/Projects/FlowerAssignment/FlowerAssignment/bin/Debug/FlowerAssignment.exe
+/home/superrogatory/Projects/FlowerAssignment/FlowerAssignment/bin/Debug/FlowerAssignment.pdb
+/home/superrogatory/Projects/FlowerAssignment/FlowerAssignment/obj/x86/Debug/FlowerAssignment.csprojAssemblyReference.cache
+/home/superrogatory/Projects/FlowerAssignment/FlowerAssignment/obj/x86/Debug/FlowerAssignment.exe
+/home/superrogatory/Projects/FlowerAssignment/FlowerAssignment/obj/x86/Debug/FlowerAssignment.pdb
